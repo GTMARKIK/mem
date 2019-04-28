@@ -1,0 +1,106 @@
+html{
+		background: #01939A;
+	}
+	img{
+		max-width: 2000px;
+		height: auto;
+		display: block;
+		margin:20px auto;
+		transition:transform 0.00003s;
+
+	}
+	body{
+		width:65%;
+		margin: auto;
+		background: #FF7600;
+		box-shadow: 0 0 80px green;
+	}
+
+		.big{
+			color: #199fbf;
+              font-size:100px;
+              font-family: 'Amatic SC', cursive;
+              text-align: right;
+              
+		}
+		h1{
+			color: yellow;
+			text-align: center;
+			font-size: 120px;
+			font-family: 'Caveat', cursive;
+			margin: right:25px;
+			margin: 0;
+		}
+		.text{
+			color: #6cd588;
+			font-size: 70px;
+		}
+		p{
+			color:green;
+			font-size: 50px;
+		}
+		a{
+			font-size: 70px;
+			text-align: center;
+			display: inline-block; 
+			border:2px solid black;
+			padding:5px;
+			border-radius: 50px;
+			text-decoration: none;
+			width:350px; 
+			margin-right: 70px;
+
+		}
+		a:hover{
+			background:#ffd700;
+		}
+		.tok{
+			color: #115173;
+			margin: 0;
+		}
+		.roki{
+			color: #053f5e;
+		}
+		.don{
+			color:#15cda8;
+			background: purple;
+			padding: 30px;
+			width: 500px;
+			border: 2px solid green;
+			border-radius: 50px;
+			margin-left:  200px;
+		}
+		.ruki{
+			text-align: center;
+
+		}
+		.poni{
+			text-align: center;
+		}
+		p:hover{
+			color: purple;
+
+		}
+		p{
+			transition:  color 3s;
+			
+		}
+		.rotil:hover{
+			transform:scale(1.1);
+			transform: rotate(180deg);
+		}
+		.okin{
+			border:none;
+           display: block;
+           text-align: center;
+		}
+		.okin:hover{
+			background: transparent;
+		}
+
+		
+
+
+
+
+
